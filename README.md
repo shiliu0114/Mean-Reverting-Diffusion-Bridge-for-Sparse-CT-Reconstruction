@@ -53,9 +53,8 @@ Keywords: computed tomography; diffusion bridge model; sinogram prior; discr
 </p>
 
 
-
-
 ## Citation
+```bibtex
 If you use this code or find our work useful, please cite:
 @article{li2025,
   title={Mean-Reverting Diffusion Bridge with Projection Prior for Sparse CT Reconstruction},
